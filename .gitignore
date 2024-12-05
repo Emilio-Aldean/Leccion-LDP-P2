@@ -1,0 +1,21 @@
+# Unity generated files
+[Llaves, logs y carpetas temporales]
+Logs/
+Temp/
+Obj/
+Library/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Builds
+Builds/
+
+# Generated files
+.idea/
+.vscode/
