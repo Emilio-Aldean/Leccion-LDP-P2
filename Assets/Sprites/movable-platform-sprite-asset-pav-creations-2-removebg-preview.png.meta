@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      movable-platform-sprite-asset-pav-creations-2-removebg-preview_0: 8723394408441463839
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
